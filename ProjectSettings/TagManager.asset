@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fish
+  - unknownDialogue
+  - youDialogue
+  - nextButton
+  - sceneButton
+  - Obstacle
+  - Win
+  - Fish1
+  - Tutorial
+  - Ok
+  - Zoom
+  - continueButton
+  - Zoom1
+  - MiniGame
+  - Next1
+  - unknownTwoDialogue
+  - ScoreText
+  - retryButton
+  - winDialogue
+  - cameraButton
+  - informationDialogue
+  - Tapir
+  - Rhino
+  - ARtutorial
+  - ARnext
+  - Plane
+  - NoThanks
+  - BarLeft
+  - BarRight
+  - BarUp
+  - BarDown
+  - FinLeft
+  - FinRight
+  - HandLeft
+  - HandRight
+  - ArrowLeft
+  - ArrowRight
+  - Zoom2
+  - Zoom3
+  - Unknown01
+  - Unknown02
+  - Stingray01
+  - Stingray02
+  - Stingray03
+  - BalaShark01
+  - BalaShark02
+  - BalaShark03
+  - Tapir01
+  - Tapir02
+  - Rhino01
+  - Rhino02
+  - Player01
+  - Player02
+  - Player03
+  - Player04
+  - Tapir03
+  - Tapir04
+  - Unknown03
+  - Move
+  - FindSurface
+  - TapOnSurface
+  - Audio
+  - Coin
+  - Jump
+  - Info1
+  - Info2
+  - Info3
+  - Info4
+  - Info
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Transition
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
